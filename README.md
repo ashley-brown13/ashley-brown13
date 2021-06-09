@@ -13,8 +13,15 @@
 <p>&nbsp;</p>
 
 ## Find Me:
-<img align="left" alt="linked in" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/ashleybrown121389/" />
-<img align="left" alt="email" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/email-1818372-1541480.png" href="mailto:ashleybrown101789@gmail.com" />
+<a href="https://www.linkedin.com/in/ashleybrown121389/">
+<img align="left" alt="linked in" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:ashleybrown101789@gmail.com">
+<img align="left" alt="email" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/email-1818372-1541480.png" />
+</a>
+<a href="https://ashley-brown13.github.io/">
+ <img align="left" alt="portfolio" width="30px" src="https://cdn3.iconfinder.com/data/icons/job-resume-6/66/46-512.png" />
+</a>
 
 
 <p>&nbsp;</p>
