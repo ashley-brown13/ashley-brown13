@@ -1,5 +1,7 @@
 ### Hola World! I am Ashley 👋
 
+<iframe src="https://giphy.com/embed/cnuGvE0TF1vKFm4dV2" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/writing-typing-writer-cnuGvE0TF1vKFm4dV2">via GIPHY</a></p>
+
 <img alt="female programmer" src="https://giphy.com/gifs/writing-typing-writer-cnuGvE0TF1vKFm4dV2" />
 
 <!--
