@@ -11,11 +11,14 @@
 - ⚡ Fun fact: I taught English in Thailand.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-## Contact Me:
+## Find Me:
 <img align="left" alt="linked in" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/ashleybrown121389/" />
+<img align="left" alt="email" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/email-1818372-1541480.png" href="mailto:ashleybrown101789@gmail.com" />
 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Skills
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
