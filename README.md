@@ -1,15 +1,20 @@
 ### Hola World! I am Ashley 👋
 
+## I am a voracious reader, a fiction writer, and a developing developer!
+
 <img align="right" alt="female programmer" src="https://monophy.com/media/cnuGvE0TF1vKFm4dV2/monophy.gif" />
 
 - 🔭 I’m currently working on adding a new feature to my latest project.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on anything. As my favorite Corgi shirt says, I am excited about whatever!
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I taught English in Thailand.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Contact Me:
+<img align="left" alt="linked in" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/ashleybrown121389/" />
 
 
 ## Skills
