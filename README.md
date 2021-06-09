@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-&nbsp;
-&nbsp;
-
+&nbsp; &nbsp;
 
 ## GitHub Stats
 <img align="left" alt="Ashley's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashley-brown13&show_icons=true" />
