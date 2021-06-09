@@ -1,4 +1,4 @@
-### Hola World! I am Ashley 👋
+### Hola World! I'm Ashley 👋
 
 ## I am a voracious reader, a fiction writer, and a developing developer!
 
