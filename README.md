@@ -1,6 +1,6 @@
 ### Hola World! I am Ashley 👋
 
-<img alt="female programmer" src="https://giphy.com/gifs/writing-typing-writer-cnuGvE0TF1vKFm4dV2" />
+<img alt="female programmer" src="https://monophy.com/media/cnuGvE0TF1vKFm4dV2/monophy.gif" />
 
 <!--
 **ashley-brown13/ashley-brown13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
