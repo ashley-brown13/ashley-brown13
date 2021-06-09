@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashley-brown13&show_icons=true&hide_border=true" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-brown13" />
