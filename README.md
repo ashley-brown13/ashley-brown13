@@ -5,7 +5,7 @@
 <img align="right" alt="female programmer" src="https://monophy.com/media/cnuGvE0TF1vKFm4dV2/monophy.gif" />
 
 - 🔭 I’m currently working on adding a new feature to my latest project.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning Typescript and Firebase.
 - 👯 I’m looking to collaborate on anything. As my favorite Corgi shirt says, I am excited about whatever!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I taught English in Thailand.
