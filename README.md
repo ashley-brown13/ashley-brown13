@@ -2,7 +2,7 @@
 
 ## I am a voracious reader, a fiction writer, and a developing developer!
 
-<img align="right" alt="female programmer" src="https://monophy.com/media/cnuGvE0TF1vKFm4dV2/monophy.gif" />
+<img align="right" alt="female programmer" src="https://giphy.com/gifs/writing-typing-writer-cnuGvE0TF1vKFm4dV2"/>
 
 - 🔭 I’m currently working on adding a new feature to my latest project.
 - 🌱 I’m currently learning Typescript and Firebase.
